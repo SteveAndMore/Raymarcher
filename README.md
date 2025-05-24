@@ -1,6 +1,7 @@
 # RayMarcher
 
-A simple low lever raymarcher in `C++`. Two versions has been implemented, one using `OpenGL`,
+A simple low lever raymarcher in `C++`.
+Two versions has been implemented, one using `OpenGL`,
 `glut` and `glew`,one without any libraries except the standard library.
 To build the two versions, make sure that you have `g++` and `make`.
 
